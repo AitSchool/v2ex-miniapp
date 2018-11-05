@@ -1,0 +1,42 @@
+.page-container{
+  background-color: #f5f5f5;
+}
+
+.topic-contianer{
+  padding: 30rpx;
+  margin-bottom: 10px;
+  background-color: #fff;
+}
+
+.topic-userInfo{
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.topic-userInfo .topic-userInfo-avatar{
+  flex: none;
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 4px;
+  margin-right: 8px;
+  background-color: #f5f55f;
+}
+
+.topic-userInfo .topic-userInfo-username{
+  font-size: 12px;
+  color: #666;
+  display: flex;
+  align-items: flex-end;
+}
+
+.topic-content .topic-title{
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.topic-content .topic-description{
+  font-size: 14px;
+  color: #666;
+  text-align: justify;
+}

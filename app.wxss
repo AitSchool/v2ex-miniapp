@@ -1,0 +1,13 @@
+@import '/template/topics/topics.wxss'
+
+page{
+  height:100%;
+  font-size: 16px;
+  font-family: arial;
+  line-height: 1.6;
+  color: #333;
+}
+
+.page-container{
+  min-height: 100%;
+}
